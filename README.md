@@ -1,4 +1,4 @@
-You asked for a better framework. There it is.
+You asked for a better framework. There it is x 2.
 ---------------------------------------------
 
 Lithium is the fast, flexible and most RAD development framework for PHP 5.3 and up.
@@ -8,7 +8,7 @@ A framework of firsts
 
 Lithium is the first and only major PHP framework built from the ground up for PHP 5.3+, and the first to break ground into major new technologies, including bridging the gap between relational and non-relational databases through a single, unified API.
 
-Promiscuously opinionated
+Promiscuously opinionated - yup
 -------------------------
 
 Some frameworks give you a solid set of classes, but little or no default project organization, leaving you to fend for yourself on each project you create, and spend time wiring up framework classes that should just work together. Others provide you with great organizational conventions, but no way to break out of those conventions if you need to, and too often, no way to override or replace core framework classes.
